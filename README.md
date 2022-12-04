@@ -1,2 +1,1 @@
-# AirBnB_clone
-grey
+ALX AirBnB clone project
